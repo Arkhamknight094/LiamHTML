@@ -1,0 +1,45 @@
+a:link {
+    color: rgb(0, 255, 221);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(197, 255, 192);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(101, 0, 121);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+#fine_print {
+    font-style: italic;
+}
+
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+img {
+    border: 3px gray solid;
+    height: 450px;
+}
+
+.box {
+    width: 50%;
+    height: 400px;
+    border: 4px white solid;
+    overflow: auto;
+}
