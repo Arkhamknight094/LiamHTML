@@ -44,3 +44,9 @@ img {
     overflow: auto;
     padding: 15px;
 }
+
+h1 {
+    position: absolute;
+    bottom: 200px;
+    text-align: center;
+}
